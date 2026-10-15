@@ -30,6 +30,4 @@ This project explores retail sales data to understand sales performance, custome
 
 The analysis compares sales performance over time, examines revenue across product categories, and explores differences in purchasing patterns across customer groups.
 
-## Author
-
-Phebe Adekankun
+ 
